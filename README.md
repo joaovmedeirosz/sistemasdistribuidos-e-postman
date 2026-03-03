@@ -1,2 +1,2 @@
 # sistemasdistribuidos-e-postman
-Projeto + teste de comandos no postman
+SpringBoot + teste de comandos no postman
